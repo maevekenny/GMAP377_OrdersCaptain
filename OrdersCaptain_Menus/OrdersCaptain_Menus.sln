@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AAFA5E56-2443-FABF-4D79-54046E2FC08A}") = "OrdersCaptain_Menus", "Assembly-CSharp.csproj", "{535A75A6-6A34-C857-7496-8E9ABF8D0497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535A75A6-6A34-C857-7496-8E9ABF8D0497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535A75A6-6A34-C857-7496-8E9ABF8D0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535A75A6-6A34-C857-7496-8E9ABF8D0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535A75A6-6A34-C857-7496-8E9ABF8D0497}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
