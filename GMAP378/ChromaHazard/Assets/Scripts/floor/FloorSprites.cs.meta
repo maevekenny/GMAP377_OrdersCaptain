@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ca22125c979e75545994be0a9a2041da
+timeCreated: 1460996876
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - NormalFloor: {fileID: 21300004, guid: 390f548bf9a1e9e4a82f863df12e8740, type: 3}
+  - IceFloor: {fileID: 21300002, guid: 390f548bf9a1e9e4a82f863df12e8740, type: 3}
+  - SlowFloor: {fileID: 21300008, guid: 390f548bf9a1e9e4a82f863df12e8740, type: 3}
+  - FastFloor: {fileID: 21300006, guid: 390f548bf9a1e9e4a82f863df12e8740, type: 3}
+  - BouncyFloor: {fileID: 21300000, guid: 390f548bf9a1e9e4a82f863df12e8740, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
